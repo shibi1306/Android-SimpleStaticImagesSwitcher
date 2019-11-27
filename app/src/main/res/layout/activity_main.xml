@@ -16,7 +16,7 @@
         app:layout_constraintHorizontal_bias="0.5"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:srcCompat="@drawable/dog1" />
+        app:srcCompat="@android:color/darker_gray" />
 
     <Button
         android:id="@+id/button"
